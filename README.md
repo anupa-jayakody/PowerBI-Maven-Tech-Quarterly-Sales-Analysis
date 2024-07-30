@@ -1,4 +1,4 @@
-# PowerBI-Maven-Tech-Quarterly-Sales-Analysis
+# Maven Tech Quarterly Sales Analysis
 
 **Use case**
 - Visualize customer sales to take actions on high or low performing managers and sales agents
